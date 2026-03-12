@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yehweh
-- 👀 I’m interested in God games
+- 
 - 🌱 I’m currently learning philosophy, data science, classical physics and music theor
 
 
